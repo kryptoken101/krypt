@@ -627,7 +627,7 @@
       "symbol": "KARMA",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://ipfs.io/ipfs/QmYmgC2XSEWZfyd1BN42xg4jAGgG9YUFQJWcKanQ4zVvtT/karma-coin.png"
+      "logoURI": "https://github.com/kryptoken101/krypt/blob/3cc7e69e2f666536c4af2ab4adb3f023e459dfb1/karma-coin.png"
     },
     {
       "name": "Kommunitas",
@@ -643,7 +643,7 @@
       "symbol": "KRYPT",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://ipfs.io/ipfs/QmSXGVKLSqfip1qvSMcszE9BR2CKJ3wrpBRCFsA9vvmEMP/krypt-round.png"
+      "logoURI": "https://github.com/kryptoken101/krypt/blob/aeea7b84935e31d97ec72b57babd74edb106d4ab/krypt-round.png"
     },
     {
       "name": "Lucidao",
